@@ -53,5 +53,5 @@ En el siglo V a. C., se formularon tres problemas aparentemente sencillos, pero 
 * La duplicación del volumen del cubo.
 
 No fue hasta el siglo XIX cuando se demostró que estos tres problemas son irresolubles. Sin embargo, tratando de resolverlos los griegos desarrollaron conceptos como:
-* La *media proporcional* o *geométrica*. Si X es la media proporcional entre A y B entonces $A/X = X/B$, i.e., $X = \sqrt{AB}$.
-* El *método de exhaución*. Este consiste en aproximar una figura curva mediante polígonos con un número cada vez mayor de lados.
+* La *media proporcional* o *geométrica*. Si $X$ es la media proporcional entre $A$ y $B$ entonces $A/X = X/B$, i.e., $X = \sqrt{AB}$.
+* El *método de exhaución*. Este consiste en aproximar una figura curva mediante polígonos con un número cada vez mayor de lados y constituye un precedente del 	cálculo integral.
