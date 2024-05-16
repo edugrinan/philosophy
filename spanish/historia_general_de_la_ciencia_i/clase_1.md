@@ -20,8 +20,7 @@ Este resultado fue utilizado por Tales de Mileto para medir la altura de la gran
 
 #### Segundo teorema de Tales
 > *El triángulo que forman los dos extremos (A, C) del diámetro de una circunferencia y un punto cualquiera de la circunferencia (B) es rectángulo, con un ángulo recto en ese punto*
-
-![image](https://github.com/edugrinan/philosophy/assets/118669606/0eb7dbd1-af69-4aa9-8027-1f126eeb742c)
+<img src="https://github.com/edugrinan/philosophy/assets/118669606/0eb7dbd1-af69-4aa9-8027-1f126eeb742c" width="300">
 
 *Dem.* Los segmentos OA, OB y OC son iguales por ser todos radios de la misma circunferencia, por lotanto, los triángulos AOB y BOC son isósceles. Usando que para todo triángulo la suma de sus ángulos es igual a $180^\circ$, para el ABC se tiene que $\alpha + \beta + \left( \alpha + \beta \right) = 180^\circ$, de donde sigue que $\alpha + \beta = 90^\circ$, es decir, C es un ángulo recto.
 
