@@ -28,10 +28,9 @@ Veamos algunos ejemplos de proposiciones:
 
 **Libro VI. Proposición 13.** Dadas dos rectas, hallar una media proporcional.
 > _Sea X la longitud de la recta AB, e Y la de la recta BC. Formamos la recta AC combinando X e Y, que será el diámetro de un semicírculo. Sobre el punto B elevamos una recta q ue intersecta con el círculo en el punto D. La recta BD tiene una longitud igual a la media proporcional (o geométrica) entre X e Y, es decir,_ $\sqrt {XY}$ .
-
 <img src="https://github.com/edugrinan/philosophy/assets/118669606/0ea3a7cd-7708-4220-bf7a-d93354599caf" width="400">
 
-_Prueba_: Usando Tales el ángulo D es recto y los triángulos ABD y DBC son semejantes, por lo que AB/BD es igual a BD/BC.
+_Prueba_: Usando el segundo Teorema de Tales, el ángulo D es recto. Como los triángulos ABD y DBC son semejantes, AB/BD es igual a BD/BC.
 
 **Libro IX. Proposición 20.** Teorema de Euclides.
 > _Hay más números primos que cualquier cantidad propuesta de números primos_
