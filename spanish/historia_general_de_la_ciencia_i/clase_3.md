@@ -16,7 +16,37 @@ El universo de Platón
 
 Respecto a la astronomia Platon sostiene que la esfera es la forma más perfecta de todas y por tanto es la que contiene el universo en su conjunto. Esta esfera vista desde dentro es el _firmamento_, la esfera más externa del universo, que debe su nombre a que los griegos creían que las estrellas estaban fijas. De esta forma el cosmos es finito y todo esta contenido en esta esfera. La Tierra es una esfera que se encuentra en el interior en esta estructura de capas esfericas concéntricas. Todos los movimientos celestes son circulares y la velocidad angular (termino moderno) de estos es invariable (aunque algunos autores niegan que Platón formulara explicitamente este punto). El sentido de los movimientos circulares planetarios es siempre el mismo; no hay inversiones de sentido.
 
+Segun simplicio, Platón planteó a los astrónomos el siguiente problema: “Cuáles son los movimientos circulares, uniformes y perfectamente regulares que conviene tomar como hipótesis a fin de salvar las apariencias presentadas por los planetas”. El primero en responder ess modelo de Esferas homocéntricas de Eudoxo de Cnido (408-355 a.C.). Este se basa en que para cada planeta tenemos asociada 4 esferas tal que la esfera mas grande asociada a marte tiene un eje norte sur prespecto al firmamento, pero el resto de capas esfericas interiores tienen ejes oreintados distintos. Marte estaría en la capa esférica mas interior interior de esta estructura y su movimiento aparente es el resultados del de las 4  capas, dando lugar a una curva llamada _hipopeda_. 
 
-Segun aristoteles el éter (mas ligero que el fuego) es un material incorruptible que no puede mezclarse con nada y por lo tanto es eterno y se comporta siempre igual y por eso los astros no cambian y se comportan siempre de la misma manera mientras que el resto de elementosse pueden mezclar unos con otros y así se presentan en la Tierra.
+![image](https://github.com/edugrinan/philosophy/assets/118669606/3019ebb9-b494-4388-b454-c6175d4e1504)
 
-El Demiurgo toma el caos primitivo, lleno de material informe a partir del que será construido el cosmos, e impone orden siguiendo un plan racional. 
+Este sistema: Ventajas: 
+permitía explicar la retrogradación.
+Inconvenientes:
+No era sistemático (no integraba todos los planetas en un solo sistema). Aunque Aristóteles consiguió su integración.
+No explicaba la variación en intensidad luminosa de los planetas, ni en su velocidad de giro.
+No era capaz de predecir con exactitud la posición de los planetas. La curva descrita era sólo aproximada.
+
+A partir de la epoca de Aristoteles, siglo 4 a.C. los filosofos se dividen en dos direcciones: 
+* uno que es lo que podemos llamarlos cosmólogos o los físicos intentan aportar explicaciones sobre por qué el universo está constituido materialmente de la forma en que lo está, una astronomía física o cosmológica que intenta dar una explicación material sobre por qué el universo funciona como funciona. Aqui se incluye la cosmología física de Aristóteles (realista). Problema: averiguar los procesos físicos que determinan la posición de los planetas y que sirven para explicar por qué el planeta está en ella. ¿Cómo integrar todas las esferas de los planetas en un sistema físicamente viable? ¿Cómo se transmiten los movimientos de una esfera a otra? [^1]
+* una astronomía matemática que simplemente intenta predecir el universo, dar una explicación física (una descripción matemática) de porque el universo es como es únicamente para "salvar las apariencias" o "salvar los fenómenos"
+
+[^1]: Segun aristoteles el éter (mas ligero que el fuego) es un material incorruptible que no puede mezclarse con nada y por lo tanto es eterno y se comporta siempre igual y por eso los astros (que se encuentraban en él) no cambian y se comportan siempre de la misma manera mientras que el resto de elementosse pueden mezclar unos con otros y así se presentan en la Tierra.
+
+
+El modelo de Apolonio y Ptolomeo
+
+Principios fundamentales (Almagesto, o Sintaxis Matemática)
+
+El universo es esférico y sus movimientos son de rotación
+La tierra es una esfera 
+La tierra está en el centro del cosmos
+La tierra no se mueve
+En relación con la distancia a las estrellas fijas (la esfera más alejada de todas), la tierra no tiene un tamaño apreciable, y puede ser considerada como un punto matemático [^2]
+
+[^2]: De esto se dieron cuenta debido a que veian exactamente la mitad de las estrellas del firmamento y esto solo podia deberse a que la tierra era diminuta comparada con la esfera exterior.
+
+Para explicar la variación del brillo de los planetas durante la retrogradación, este modelo sostiene que en la esfera de cada planeta hay incrustada otra esfera, llamada _epiciclo_. Las retrogradaciones pueden explicarse ajustando el tamaño y el tiempo de estos epiciclos. Para algunos planetas era necesario incluir mas de un epiciclo. Tambien podian usarse epiciclos para explicar la excentricidad de algunas órbitas.
+
+
+
