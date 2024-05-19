@@ -35,17 +35,17 @@ _Prueba_: Usando el segundo Teorema de Tales, el ángulo D es recto. Como los tr
 **Libro IX. Proposición 20.** Teorema de Euclides.
 > _Hay más números primos que cualquier cantidad propuesta de números primos_
 
-_Prueba. Reducción al absurdo_: Supongamos que hubiese una cantidad dada de números primos, $A, B, ..., C$. Sea D igual a $A\*B\*…\*C + 1$:
-1. Si D es primo, ya se ha conseguido un número primo mayor que $A, B, ..., C$, en contra de lo que habíamos supuesto.
-2. Si D no es primo, por la proposición VII.31, D será divisible por algún número primo. Pero no es divisible por ninguno de los A, B, ..., C (da resto 1). Luego D será divisible por algún número primo no comprendido en $A, B, ..., C$. Por lo tanto, $A, B, ..., C$ no pueden ser todos los números primos.
+_Prueba. Reducción al absurdo_: Supongamos que hubiese una cantidad dada de números primos, $A, B, ..., C$. Sea $D = A\*B\*…\*C + 1$:
+1. Si $D$ es primo, ya se ha conseguido un número primo mayor que $A, B, ..., C$, en contra de lo que habíamos supuesto.
+2. Si $D$ no es primo, por la proposición VII.31, $D$ será divisible por algún número primo. Pero no es divisible por ninguno de los $A, B, ..., C$ (da resto 1). Luego $D$ será divisible por algún número primo no comprendido en $A, B, ..., C$. Por lo tanto, $A, B, ..., C$ no pueden ser todos los números primos.
 
 [^1]: Los matemáticos de la Antigüedad ya mostraron extrañeza por la diferencia cualitativa entre el 5º postulado y los otros 4, y pensaron que tenía que ser posible deducirlo a partir de los anteriores y de nociones básicas. No fue hasta el siglo XIX cuando se demostró su independencia, al construirse las *geometrías no euclídeas*, en las cuales ese postulado no se cumple.
 
 ### La matemática griega posterior a Euclides
-Los siglos III y II a. C. constituyen la Edad de Oro de la matemática griega.
+Los siglos III y II a. C. constituyen la **Edad de Oro** de la matemática griega.
 
 #### Apolonio
-De Apolonio sólo ha sobrevivido su tratado sobre las Cónicas, que amplía y sistematiza los descubrimientos de Menecmo; fue él quien les dio los nombres de _elipse_, _parábola_ e _hipérbola_. También se deben a Apolonio los conceptos astronómicos de _excéntrica_, _epiciclo_ y _deferente_, que más tarde serán desarrollados por Hiparco y Ptolomeo.
+De Apolonio sólo ha sobrevivido su tratado sobre las _Cónicas_, que amplía y sistematiza los descubrimientos de Menecmo; fue Apolonio quien les dio los nombres de _elipse_, _parábola_ e _hipérbola_. También se deben a él los conceptos astronómicos de _excéntrica_, _epiciclo_ y _deferente_, que más tarde serán desarrollados por Hiparco y Ptolomeo.
 
 #### Arquímedes
 Arquímedes introdujo la noción de peso como una magnitud con propiedades matemáticas análogas a las de longitud y volumen, ampliando así el dominio de la matemática euclídea desde la geometría pura a la _mecánica_ (equilibrio de líneas y planos) y la _hidrostática_ (teoría de los cuerpos flotantes)
