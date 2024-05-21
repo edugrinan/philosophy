@@ -73,7 +73,9 @@ Aristarco midió los diámetros angulares, \(\alpha_L\) para la Luna y \(\alpha_
 
 Por ello se tiene (al menos en buena aproximación):
 
-\[ \frac{d_{TL}}{d_{TS}} = \frac{D_L}{D_S} \]
+$$
+\frac{d_{TL}}{d_{TS}} = \frac{D_L}{D_S}
+$$
 
 donde \(D_S\) es el diámetro del Sol, \(d_{TL}\) la distancia de la Tierra a la Luna y \(d_{TS}\) la distancia de la Tierra al Sol.
 
