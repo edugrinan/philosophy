@@ -82,6 +82,21 @@ donde \(D_S\) es el diámetro del Sol, \(d_{TL}\) la distancia de la Tierra a la
 ## distancia a la luna
 
 ## distancia a la luna con respecto a la distancia al sol
+## Relacionar la distancia a la Luna con la distancia al Sol
+
+Podría resultar sorprendente que hasta ahora no hemos obtenido ninguna estimación concreta, ni de un diámetro, ni de una distancia a uno de estos dos cuerpos celestes. Esto se debe a que seguimos el desarrollo histórico: seguimos primero a Aristarco y este sólo pudo establecer relaciones entre estas longitudes.
+
+Para concluir y relacionar la distancia a la Luna con la distancia al Sol Aristarco necesitaba una idea más. Pensó que en el momento que nosotros vemos media luna el ángulo \( \angle SLT \) es un ángulo recto. En este día midió el ángulo \( \varphi = \angle LTS \) y pudo relacionar las distancias involucradas.
+
+$$
+\varphi = \frac{\pi}{2} - \varphi
+$$
+
+![Diagram](image.png)
+
+La idea de Aristarco es muy buena, excepto que tiene un problema de medición: el ángulo \( \varphi \) es muy cercano a un ángulo recto \( 90^\circ = \frac{\pi}{2} \). Aristarco lo midió como 87º, pero en realidad es de 89.85º. Es mucho más fácil medir un ángulo pequeño que un ángulo cercano a 90º con buena precisión. Esto provocó que las distancias obtenidas por los griegos salieran mucho más pequeñas de lo que son en realidad.
+
+### Eratóstenes
 
 Eratóstenes (276-195 a.C) calcula el radio de la tierra midiendo la sombra sobre Siena y Alejandria en el mediodia del solsticio de verano (tal que en Alejandria no proyecta ninguna sombra porque esta en el tropico) y conociendo la distancia entre ambas ciudades quedandose en un valor muy cercano al real.
 
