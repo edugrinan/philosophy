@@ -57,5 +57,4 @@ La teoría de las proporciones entre magnitudes racionales e irracionales no la 
 La prueba de Euclides procede mostrando que los siguientes triángulos tienen la misma área: AGC (rojo), AGB (verde), ACE (verde) (pues AB=AE; AG=AC, y el ángulo GAB = ángulo CAE = 90° + ángulo CAB), AKE (amarillo). Ahora AC2 = AGFC = 2 AGC y AKLE = 2 AKE, por tanto AC2 = AKLE.
 
 Se demuestra igual que CB2 = KBDL. Y, como AB2 = AKLE + KBDL, se sigue que AB2 = AC2 + CB2
-
-![image](https://github.com/edugrinan/philosophy/assets/118669606/031acc54-dd74-4453-9bf6-57ce88e30f43)
+<img src="https://github.com/edugrinan/philosophy/assets/118669606/031acc54-dd74-4453-9bf6-57ce88e30f43" width="300">
