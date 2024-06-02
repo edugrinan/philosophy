@@ -34,9 +34,9 @@ En este ejemplo se observan ya algunas de las contribuciones griegas más import
 #### Teorema de Pitágoras
 > *En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.*
 
-Lo realmente novedoso de este resultado no es su aplicación práctica, pues desde el 1800 a. C. los babilonios ya conocían *ternas pitagóricas*, sino que su valor reside en la demostración de una propiedad universal de los triángulos rectángulos.
+Lo realmente novedoso de este resultado no es su aplicación práctica (pues desde el 1800 a. C. los babilonios ya conocían *ternas pitagóricas*) sino que su valor reside en la demostración de una propiedad universal de los triángulos rectángulos. Otro aspecto interesante del teorema es que, a diferencia de los de Tales, su validez no es intuitivamente obvia.
 
-La principal consecuencia directa de este teorema fue la **inconmesuralidad de la diagonal del cuadrado**:
+La principal consecuencia directa  de este resultado fue la **inconmesuralidad de la diagonal del cuadrado**:
 > _No hay ninguna unidad_ $A$ _para la que existan dos números naturales_ $n$ _y_ $m$_, tales que, si el lado de un cuadrado mide_ $nA$ _unidades, la diagonal mida_ $mA$ _unidades._
 
 Esto es, la razón de la diagonal de un cuadrado y su lado es *inconmensurable* o irracional, dando así lugar a la existencia de **números irracionales**.
