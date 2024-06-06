@@ -8,8 +8,8 @@ Es probable que la demostración pitagórica original se basara en las proporcio
 
 Sea el triángulo APB rectángulo en el vértice P. Si trazamos la altura CP, dividimos el triángulo en otros dos triángulos que también son rectángulos (pues los dos ángulos en C son rectos). Se puede ver que los dos triángulos ACP y PCB son semejantes al original APB pues:
 * Ambos tienen un ángulo recto.
-* Ambos tienen un ángulo en común ($\alpha$).
-* Por tanto, el tercer ángulo ($\beta$) debe ser igual en ambos triángulos (pues $\beta = 180° - 90° - \alpha$). 
+* Ambos tienen un ángulo en común.
+* Por tanto, el tercer ángulo debe ser igual en ambos triángulos. 
 
 Ahora, puesto que los tres ángulos son iguales, ambos triángulos son semejantes (es decir, las proporciones entre sus lados son idénticas). Lo mismo puede demostrarse sobre los triángulos APB y PCB. Así que los tres triángulos son semejantes.
 
